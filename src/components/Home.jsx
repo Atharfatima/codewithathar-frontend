@@ -64,10 +64,7 @@ export default function Home() {
           <div className="projects-grid">
             {/* Project 1 */}
             <div className="project-card">
-              <img
-                src="public/projects/.projects/project2.jpg"
-                alt="Project 1"
-              />
+              <img src="/projects/.projects/project2.jpg" alt="Project 1" />
               <div className="project-info">
                 <h4>Portfolio Website</h4>
                 <p>Modern responsive portfolio built with React and Vite.</p>
@@ -84,10 +81,7 @@ export default function Home() {
 
             {/* Project 2 */}
             <div className="project-card">
-              <img
-                src="public/projects/.projects/project1.jpg"
-                alt="Project 2"
-              />
+              <img src="/projects/.projects/project1.jpg" alt="Project 2" />
               <div className="project-info">
                 <h4>Business Landing Page</h4>
                 <p>Clean and optimized landing page using Tailwind CSS.</p>
@@ -104,10 +98,7 @@ export default function Home() {
 
             {/* Project 3 */}
             <div className="project-card">
-              <img
-                src="public/projects/.projects/project3.jpg"
-                alt="Project 3"
-              />
+              <img src="/projects/.projects/project3.jpg" alt="Project 3" />
               <div className="project-info">
                 <h4>React Dashboard</h4>
                 <p>Dynamic admin dashboard with charts and dark mode.</p>
